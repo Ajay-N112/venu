@@ -1,0 +1,15 @@
+
+
+create node       - npm init
+install json server - npm i json-server
+
+nodemon - it is used to automatic recompilations
+
+middlewares
+-----------
+middlewares have the ability to control all server request in a server 
+- if we apply middlewares in server , the middleware will work before the request 
+ 
+cors - cross origine resourse sharing
+-------------------------------------
+connect front-end with node server - npm i cors
